@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "392244606153",
+    "project_id": "qring-99f90",
+    "storage_bucket": "qring-99f90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392244606153:android:9d0dcab2d99ce2ed848918",
+        "android_client_info": {
+          "package_name": "com.example.qring_multi_platform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392244606153-harcie1m4oandmrvkkkqv3a3175kpjvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSjX-lzTx_HlSC9pVR-HIS-06-16kPG30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392244606153-harcie1m4oandmrvkkkqv3a3175kpjvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392244606153:android:8ff1dbcc0c46608c848918",
+        "android_client_info": {
+          "package_name": "com.tostcorp.qring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392244606153-harcie1m4oandmrvkkkqv3a3175kpjvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSjX-lzTx_HlSC9pVR-HIS-06-16kPG30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392244606153-harcie1m4oandmrvkkkqv3a3175kpjvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
