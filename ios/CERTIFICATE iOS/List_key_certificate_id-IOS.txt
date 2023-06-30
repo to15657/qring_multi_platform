@@ -1,0 +1,30 @@
+UDID = 00008030-000111AE2682402E
+
+Apple ID KEY = BS43DKV8N8 
+Bundle ID = com.example.qringMultiPlatform
+
+Team Id = U99FW5F993
+
+
+Appollo
+--------
+
+C:\Users\user\AndroidStudioProjects\qring_multi_platform> appollo apple add
+Apple id: tostcorp
+Name: TOSTCORP
+Key id: BS43DKV8N8
+Issuer id: 7cb9ca0b-ecc6-4531-9f43-f8855cb84173
+Private key: c:\Users\user\ANDROI~1\CERTIF~1\AUTHKE~2.P8
+Linked Appollo to the Apple developer account "TOSTCORP" successfully. It has key NQ3
+PS C:\Users\user\AndroidStudioProjects\qring_multi_platform> appollo apple ls
+         Apple Developer Accounts you have access to         
+
+Appollo Key : NQ3                                                                                                                      │
+│             Name : TOSTCORP                                                                                                                        │
+│             Team ID : tostcorp                                                                                                                     │
+│             Apple API Key ID : BS43DKV8N8                                                                                                          │
+│             Admin : teddy15657      
+
+
+
+C:\Users\user\AndroidStudioProjects\qring_multi_platform> appollo app mk --name QRING --bundle-id com.example.qringMultiPlatform
